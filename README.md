@@ -1,2 +1,2 @@
-# zation-core-events
-The core events of the Zation framework
+# ziron-events
+The core events of Ziron
