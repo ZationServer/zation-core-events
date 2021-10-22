@@ -4,10 +4,10 @@
   "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "SEE LICENSE IN <https://github.com/ZationServer/zation/wiki/Zation-End-User-License-Agreement>",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZationServer/zation-core-events.git"
+    "url": "https://github.com/ZironServer/ziron-events.git"
   },
   "author": {
     "name": "Ing. Luca Gian Scaringella",
@@ -24,8 +24,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "zation",
-    "events",
-    "core"
+    "ziron",
+    "events"
   ]
 }
