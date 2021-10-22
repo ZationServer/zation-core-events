@@ -1,7 +1,7 @@
 {
   "name": "ziron-events",
   "description": "Ziron events",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "UNLICENSED",
